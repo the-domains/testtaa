@@ -1,0 +1,28 @@
+name: TESTTAA
+favicon: null
+layout_spectrum: 0.608612809330225
+typography_spectrum: 0.40405741380527616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23824086226522923
+  lightness: 0.4967613781336695
+  saturation: 0.4658492710441351
+  rhythmicContrast: 0.15201106248423457
+purpose: []
