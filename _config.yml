@@ -1,7 +1,7 @@
 name: The Adams Agency
 favicon: null
-layout_spectrum: 0.608612809330225
-typography_spectrum: 0.40405741380527616
+layout_spectrum: 0.88574
+typography_spectrum: 0.7404
 title: The Adams Agency
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#d12900'
   brandStrength: 0.25
   lightness: 0.4967613781336695
-  saturation: 0.4658492710441351
+  saturation: 0.375
   rhythmicContrast: 0.15201106248423457
 purpose: []
